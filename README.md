@@ -8,22 +8,30 @@
 1. [Python](https://www.python.org/)
 2. [Flask](http://flask.pocoo.org/)
 3. [virtualenv](https://pypi.org/project/virtualenv/)
-4. *[Utilizando **Conda** para criar seu virtualenv](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)*
-5. [Ipython] (https://ipython.org/)
-
+4. [Ipython](https://ipython.org/)
+5. *[Utilizando **Conda** para criar seu virtualenv](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)*
 
 ## Como instalar:
-```sudo apt-get install python-virtualenv
+```
+sudo apt-get install python-virtualenv
     virtualenv **my_flask_app**    
-    source **my_flask_app/bin/activate```
+    source **my_flask_app/bin/activate
+```
     
-```pip install flask
-pip install ipython```
+```
+pip install flask
+pip install ipython
+```
 
 ** Após isso, deve ficar mais ou menos assim:
 (my_flask_app)username@pc/path/to/my_flask_app$  :shipit:
 
 ## Como executar:
-```python app.py```
+```
+python app.py
+```
 
-Acesse ```localhost:5000```
+Acesse 
+```
+localhost:5000
+```
