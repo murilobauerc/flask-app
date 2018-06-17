@@ -14,8 +14,8 @@
 ## Como instalar:
 ```
 sudo apt-get install python-virtualenv
-    virtualenv **my_flask_app**    
-    source **my_flask_app/bin/activate
+virtualenv **my_flask_app**    
+source **my_flask_app/bin/activate
 ```
     
 ```
@@ -23,8 +23,8 @@ pip install flask
 pip install ipython
 ```
 
-** Após isso, deve ficar mais ou menos assim:
-(my_flask_app)username@pc/path/to/my_flask_app$  :shipit:
+**Após isso, deve ficar mais ou menos assim:**
+(my_flask_app)username@pc/path/to/my_flask_app$ :shipit:
 
 ## Como executar:
 ```
