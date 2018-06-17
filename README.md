@@ -2,7 +2,7 @@
 
 <!-- > This project was made with [Flask](http://flask.pocoo.org/), which is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. -->
 
-> Este projeto está sendo feito com [Flask](http://flask.pocoo.org/), no qual é um microframework para Python baseado em [Wekzeug](http://werkzeug.pocoo.org/), [Jinja 2](http://jinja.pocoo.org/), e [boas intenções](https://wiki.python.org.br/TheZenOfPython).
+> Este projeto está sendo feito com [Flask](http://flask.pocoo.org/), o qual é um microframework para Python baseado em [Wekzeug](http://werkzeug.pocoo.org/), [Jinja 2](http://jinja.pocoo.org/), e [boas intenções](https://wiki.python.org.br/TheZenOfPython).
 
 ## Para executar, devemos ter:
 1. [Python](https://www.python.org/)
