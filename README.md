@@ -9,7 +9,7 @@
 2. [Flask](http://flask.pocoo.org/)
 3. [virtualenv](https://pypi.org/project/virtualenv/)
 4. [Ipython](https://ipython.org/)
-5. *[**Conda**](https://conda.io/docs/) [para criar seu virtualenv](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)*
+5. *Caso deseje, ainda tem o [**Conda**](https://conda.io/docs/) [para criar seu virtualenv](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)*
 
 ## Como instalar:
 ```
