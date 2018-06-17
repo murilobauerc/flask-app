@@ -14,8 +14,8 @@
 ## Como instalar:
 ```
 sudo apt-get install python-virtualenv
-virtualenv **my_flask_app**    
-source **my_flask_app/bin/activate
+virtualenv my_flask_app  
+source my_flask_app/bin/activate
 ```
     
 ```
