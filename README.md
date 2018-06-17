@@ -24,7 +24,10 @@ pip install ipython
 ```
 
 **Após isso, deve ficar mais ou menos assim:**
-(my_flask_app)username@pc/path/to/my_flask_app$ :shipit:
+``` 
+(my_flask_app)username@pc/path/to/my_flask_app$ 
+``` 
+:shipit:
 
 ## Como executar:
 ```
