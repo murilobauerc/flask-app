@@ -23,9 +23,9 @@ pip install flask
 pip install ipython
 ```
 
-**Após isso, deve ficar mais ou menos assim:**
+**Após isso, deve ficar mais ou menos assim:** :shipit:
 
-```(my_flask_app)username@pc/path/to/my_flask_app$``` :shipit:
+```(my_flask_app)username@pc/path/to/my_flask_app$```
 
 ## Como executar:
 ```python app.py```
