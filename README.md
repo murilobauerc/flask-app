@@ -1,4 +1,4 @@
-# Flask *app* :construction:
+# Flask *app* 🐍
 
 <!-- > This project was made with [Flask](http://flask.pocoo.org/), which is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. -->
 
@@ -35,3 +35,4 @@ Acesse
 ```
 localhost:5000
 ```
+para assistir a sua primeira aplicação web utilizando Flask no ar!  😍
