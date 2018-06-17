@@ -30,12 +30,6 @@ pip install ipython
 :shipit:
 
 ## Como executar:
-```
-python app.py
-```
+```python app.py```
 
-Acesse 
-```
-localhost:5000
-```
-para assistir a sua primeira aplicação web utilizando Flask no ar!  😍
+Acesse ```localhost:5000``` para assistir a sua primeira aplicação web utilizando Flask no ar!  😍
